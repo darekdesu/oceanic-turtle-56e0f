@@ -80,10 +80,14 @@ sections:
         media_width: sixty
       - title: Online Store Management
         subtitle: 'Product updates, inventory and pricing.'
-        content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+        content: >
+          Podwyżki cen prądu pokazują, że należy szukać alternatywnych sposobów
+          pozyskiwania prądu, a firmy które zakładają panele fotowoltaiczne nie
+          muszą zwiększać cen swoich produktów przez co są na rynku bardziej
+          konkurencyjne. Przedstawimy Państwu wszystkie korzyści z założenia
+          własnej elektrowni słonecznej. Wycena jest przedstawiana zawsze z
+          konkretnej firmy fotowoltaicznej po wstępnej analizie
+          najkorzystniejszej opłacalności.
         actions:
           - label: Learn More
             url: /about
