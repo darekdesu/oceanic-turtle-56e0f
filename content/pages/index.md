@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Profesjonalne doradztwo fotowoltaiczne dla firm
+    title: PROFESJONALNE DORADZTWO FOTOWOLTAICZNE DLA FIRM
     subtitle: >-
       I will handle your website design and production, social media accounts
       and digital advertisements for you, at an affordable price.
