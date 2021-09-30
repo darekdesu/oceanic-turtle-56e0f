@@ -58,7 +58,7 @@ sections:
     title: My services
     subtitle: What I do
     features:
-      - title: Content Creation
+      - title: Najlepsze firmy
         subtitle: 'Website, blog, social media and more.'
         content: >
           Współpracujemy z najlepszymi firmami fotowoltaicznymi dzięki czemu
