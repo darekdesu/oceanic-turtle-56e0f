@@ -57,7 +57,7 @@ sections:
   - type: features_section
     title: Co oferujemy naszym klientom
     features:
-      - title: Najlepsze firmy
+      - title: Najlepsza fotowoltaika
         subtitle: Wyselekcjonowani dostawcy paneli
         content: >
           Współpracujemy z najlepszymi firmami fotowoltaicznymi dzięki czemu
