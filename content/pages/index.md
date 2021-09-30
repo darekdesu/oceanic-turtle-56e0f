@@ -56,7 +56,6 @@ sections:
     grid_gap_vert: medium
   - type: features_section
     title: Co oferujemy naszym klientom
-    subtitle: What I do
     features:
       - title: Najlepsze firmy
         subtitle: Wyselekcjonowani dostawcy paneli
