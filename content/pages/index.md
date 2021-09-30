@@ -60,10 +60,13 @@ sections:
     features:
       - title: Content Creation
         subtitle: 'Website, blog, social media and more.'
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+        content: >
+          Współpracujemy z najlepszymi firmami fotowoltaicznymi dzięki czemu
+          jesteśmy w stanie pozyskać zawsze najlepszą wycenę dla konkretnej
+          firmy w danej lokalizacji. Instalacja fotowoltaiczna daje możliwości
+          poczynienia znacznych oszczędności na energii elektrycznej. Możemy
+          zaproponować Państwu wycenę takiej instalacji, która pozwoli znacznie
+          obniżyć rachunki za prąd.
         actions:
           - label: See Writing Samples
             url: /faq
