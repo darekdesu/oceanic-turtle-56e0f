@@ -59,7 +59,7 @@ sections:
     subtitle: What I do
     features:
       - title: Najlepsze firmy
-        subtitle: 'Website, blog, social media and more.'
+        subtitle: S
         content: >
           Współpracujemy z najlepszymi firmami fotowoltaicznymi dzięki czemu
           jesteśmy w stanie pozyskać zawsze najlepszą wycenę dla konkretnej
