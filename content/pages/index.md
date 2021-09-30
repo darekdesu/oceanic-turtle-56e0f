@@ -54,7 +54,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: features_section
-    title: Oferta dla naszych klientów
+    title: Co oferujemy naszym klientom
     features:
       - title: Najlepsza fotowoltaika
         subtitle: Wyselekcjonowani dostawcy paneli
