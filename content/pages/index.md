@@ -78,7 +78,7 @@ sections:
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
-      - title: Online Store Management
+      - title: Niezależność energetyczna
         subtitle: 'Product updates, inventory and pricing.'
         content: >
           Podwyżki cen prądu pokazują, że należy szukać alternatywnych sposobów
