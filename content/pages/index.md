@@ -79,7 +79,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: Niezależność energetyczna
-        subtitle: 'Product updates, inventory and pricing.'
+        subtitle: Unikaj podwyżek prądu
         content: >
           Podwyżki cen prądu pokazują, że należy szukać alternatywnych sposobów
           pozyskiwania prądu, a firmy które zakładają panele fotowoltaiczne nie
