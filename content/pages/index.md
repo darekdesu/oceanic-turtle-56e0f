@@ -59,7 +59,7 @@ sections:
     subtitle: What I do
     features:
       - title: Najlepsze firmy
-        subtitle: S
+        subtitle: Wyselekcjonowani dostawcy paneli
         content: >
           Współpracujemy z najlepszymi firmami fotowoltaicznymi dzięki czemu
           jesteśmy w stanie pozyskać zawsze najlepszą wycenę dla konkretnej
