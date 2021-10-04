@@ -212,7 +212,7 @@ sections:
     background_image_opacity: 8
 seo:
   title: VAS  Fotowoltaika
-  description: The preview of the Personal theme
+  description: Profesjonalne doradztwo fotowoltaiczne dla firm
   extra:
     - name: 'og:type'
       value: website
