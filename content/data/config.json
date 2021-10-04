@@ -128,5 +128,13 @@
         "content": "&copy; 2021 VAS Fotowoltaika. Wszystkie prawa zastrzeżone.",
         "logo": "/images/logo.svg"
     },
-    "domain": "https://vas.net.pl"
+    "domain": "https://vas.net.pl",
+    "announcement": {
+        "has_anncmnt": false,
+        "anncmnt_content": "## Lorem ipsum\n\nLorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n- Lorem ipsum\n- dolor sit amet",
+        "anncmnt_align": "left",
+        "anncmnt_is_home_only": false,
+        "anncmnt_has_close": false,
+        "anncmnt_id": "lorem-ipsum"
+    }
 }
