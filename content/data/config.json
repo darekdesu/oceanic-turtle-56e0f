@@ -67,7 +67,7 @@
                 "style": "link"
             }
         ],
-        "has_tertiary_nav": false,
+        "has_tertiary_nav": true,
         "has_social": true,
         "social_links": [
             {
