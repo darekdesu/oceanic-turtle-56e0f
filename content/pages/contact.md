@@ -3,7 +3,9 @@ title: Contact
 sections:
   - type: hero_section
     title: Kontakt
-    subtitle: Fill out the form below and I will get in touch within 1 business day.
+    subtitle: >-
+      Zadzwoń do nas lub zostaw swoje dane w formularzu. Skontaktujemy się z
+      Tobą jak najszybciej!
     align: center
     padding_top: medium
     padding_bottom: medium
