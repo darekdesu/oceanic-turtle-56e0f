@@ -30,7 +30,6 @@
         "has_secondary_nav": false
     },
     "footer": {
-        "logo": "images/logo.svg",
         "logo_alt": "Value Added Service",
         "has_primary_nav": true,
         "primary_nav_links": [
