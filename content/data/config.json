@@ -4,7 +4,7 @@
     "layout_type": "boxed",
     "style": "classic",
     "palette": "gray",
-    "mode": "dark",
+    "mode": "light",
     "base_font": "serif",
     "header": {
         "title": "VAS Fotowoltaika",
