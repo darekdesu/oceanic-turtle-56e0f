@@ -9,7 +9,7 @@ sections:
       zrealizowanych przez nas instalacji fotowoltaicznych przekracza 4 MW (4000
       kW).
     actions:
-      - label: Contact Me
+      - label: Skontaktuj się ze mną!
         url: /contact
         style: primary
     image: /images/venz-avatar-brushed.png
