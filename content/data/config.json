@@ -68,7 +68,7 @@
             }
         ],
         "has_tertiary_nav": true,
-        "has_social": true,
+        "has_social": false,
         "social_links": [
             {
                 "label": "Twitter",
